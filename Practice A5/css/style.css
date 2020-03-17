@@ -1,0 +1,42 @@
+.container {
+	background-color: #E3CFCF;
+	width: 500px;
+	height: 400px;
+}
+
+.container > h1 {
+	font-weight: 500;
+	text-align: center;
+	color: white;
+}
+
+.container > a {
+	text-align: center;
+	text-decoration: none;
+	background-color: #8AD0F5;
+
+}
+
+.speach >input {
+	width: 350px;
+}
+.container label {
+	width: 100px;
+}
+
+
+
+.result {
+	background-color: #EFF2F5;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.btn-wrapper {
+	color: white;
+	margin: 20px auto;
+
+}
+
+
